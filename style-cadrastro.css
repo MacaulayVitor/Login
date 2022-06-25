@@ -109,3 +109,11 @@ button:hover{
     border-radius: 4px;
     display: none;
 }
+@media(max-width:624px){
+    .label-float{
+        padding-top: 28px;
+    }
+    .card{
+        padding: 55px;
+    }
+}
